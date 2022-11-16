@@ -1,6 +1,6 @@
 # vim-yoshi
 
-![yoshi](https://raw.githubusercontent.com/mattn/vim-yoshi/master/screenshot.gif)
+![yoshi](https://raw.githubusercontent.com/mattn/vim-yoshi/main/screenshot.gif)
 
 ## License
 
